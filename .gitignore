@@ -1,0 +1,13 @@
+*.iml
+/local.properties
+Code/.idea/caches
+Code/.idea/libraries
+Code/.idea/modules.xml
+Code/.idea/workspace.xml
+Code/.idea/navEditor.xml
+Code/.idea/assetWizardSettings.xml
+.DS_Store
+Code/build
+Code/captures
+.externalNativeBuild
+.cxx

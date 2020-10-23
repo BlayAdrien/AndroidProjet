@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.blais_piteau_android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:7:5-26:19
+12        android:allowBackup="true"
+12-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:8:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] /tmp/adblay/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:9:9-43
+16        android:label="@string/app_name"
+16-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:10:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:11:9-54
+18        android:supportsRtl="true"
+18-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:12:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:13:9-40
+21        <activity android:name="com.example.blais_piteau_android.Settings" />
+21-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:14:9-55
+21-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:14:19-43
+22        <!--
+23         This name is resolved to com.example.myapp.MainPage
+24             based upon the package attribute
+25        -->
+26        <activity android:name="com.example.blais_piteau_android.MainPage" >
+26-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:19:9-25:20
+26-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:19:19-43
+27            <intent-filter>
+27-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:21:17-69
+28-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:23:17-77
+30-->/home/etud/adblay/projetandroid_piteau_blay/app/src/main/AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

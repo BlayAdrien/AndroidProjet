@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BLAY_PITEAU_android</string>
+    <string name="bestScore"> Meilleur Score : </string>
+    <string name="jouer"> JOUER </string>
+    <string name="stats"> Stats </string>
+    <string name="quitter"> Quitter </string>
+    <string name="titre"> Règles du jeu : </string>
+    <string name="titre_regle"> Dans ce jeu, les règles sont simples :</string>
+    <string name="text_regle"> Vous incarnez un requin et derrière vous se trouve une grosse vague. \n\n</string>
+    <!--Le but ? Ne pas se faire rattraper par la vague.  \n\n
+        Des obstacles arriveront devant vous et vous devez les éviter en penchant votre téléphone sur la gauche pour aller à gauche et inversement. \n\n
+        Lorsque que vous touchez des obstacles, certains ne feront que vous ralentir d'autres vous feront perdre. Vous pourrez aussi récupérer des objets qui vous aideront à avancer dans le jeu.\n\n
+        Plus vous allez loin dans le jeu, plus les obstacles sont fréquents et arrivent de plus en plus vite.-->
+
+    <string name="bonus"> Bonus et Malus </string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Paramètres de jeu</string>
+
+
+    <string name="musique"> Musique (On / Off) </string>
+
+</resources>

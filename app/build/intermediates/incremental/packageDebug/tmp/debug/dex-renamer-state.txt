@@ -1,0 +1,4 @@
+#Thu Feb 06 09:50:52 CET 2020
+base.0=/home/etud/adblay/projetandroid_piteau_blay/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
